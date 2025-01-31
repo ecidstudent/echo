@@ -1,0 +1,23 @@
+{
+  "name": "echo-idenden",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Echo Idenden <idendennbte@gmail.com> (https://github.com/ecidstudent)",
+  "license": "MIT",
+
+  
+
+
+
+"bin": {
+
+  "Echo": "index.js"
+  
+  }
+  
+}  
