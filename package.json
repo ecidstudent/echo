@@ -1,13 +1,17 @@
 {
   "name": "echo-idenden",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Name package for Echo Idenden",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint index.js"
   },
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecidstudent/echo.git"
+  },
   "author": "Echo Idenden <idendennbte@gmail.com> (https://github.com/ecidstudent)",
   "license": "MIT",
   "bin": {
