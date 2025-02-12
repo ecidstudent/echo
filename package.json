@@ -1,6 +1,6 @@
 {
   "name": "echo-idenden",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Name package for Echo Idenden",
   "main": "index.js",
   "scripts": {
